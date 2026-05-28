@@ -1,7 +1,6 @@
 # RAG Chatbot
 
 A simple Retrieval-Augmented Generation (RAG) chatbot project that generates answers using custom data and an AI model API.
-<img width="1451" height="591" alt="Capture d&#39;écran 2026-05-27 212248" src="https://github.com/user-attachments/assets/d5babf55-525a-478e-bb50-59bb8e60ae53" />
 <img width="1920" height="1080" alt="Capture d&#39;écran 2026-05-27 212315" src="https://github.com/user-attachments/assets/0ab2c5b7-4897-4a6c-8256-0088b1299ea7" />
 ## Features
 

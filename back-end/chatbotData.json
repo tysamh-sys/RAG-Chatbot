@@ -1,0 +1,23 @@
+{
+  "general": {
+    "default_response": "Hello 👋, I couldn't fully understand your question or it may not be related to this topic. Please try asking about the manager responsibilities, legal, HR, or fiscal obligations."
+  },
+  "sections": {
+    "Legal Responsibilities": {
+      "title": "Legal Responsibilities",
+      "content": "As the manager (Gérant) of a Tunisian SUARL, you are the primary legal representative of the company. Your main legal responsibilities include: maintaining proper accounting records, ensuring compliance with the company bylaws (objet social), providing reports to the sole partner, signing contracts, and being liable for management faults (fautes de gestion)."
+    },
+    "Human Resources & Asset Management": {
+      "title": "HR & Asset Management",
+      "content": "Human resources management involves compliance with the Tunisian Labor Code (employment contracts, CNSS contributions, occupational health). Asset management requires maintaining a register of company property (laptops, phones, vehicles) and protecting the company's assets."
+    },
+    "Fiscal & Social Obligations": {
+      "title": "Fiscal & Social Obligations",
+      "content": "Fiscal obligations include filing corporate tax (IS), monthly VAT (TVA), withholding tax (RS), and TFP/FOPROLOS payments. Social obligations require quarterly CNSS declarations and payment of social security contributions before the 15th of the month following the quarter."
+    },
+    "Monthly/Quarterly/Annual Tasks": {
+      "title": "Monthly/Quarterly/Annual Tasks",
+      "content": "Monthly: Collect invoices and submit tax declarations before the 28th. Quarterly: Submit CNSS declarations before the 15th. Annually: Conduct stock and asset inventory, file 'Déclaration Employeur', finalize AGO, and pay Corporate Tax (IS)."
+    }
+  }
+}
